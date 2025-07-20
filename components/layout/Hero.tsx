@@ -139,9 +139,9 @@ const FilterComponent: React.FC<FilterComponentProps> = ({
               {allFilter && (
                 <Pill filter={allFilter} onClick={onFilterChange} />
               )}
-              {visibleFilters.map((filter) => (
+              {/* {visibleFilters.map((filter) => (
                 <Pill key={filter.id} filter={filter} onClick={onFilterChange} />
-              ))}
+              ))} */}
               
               {hiddenFilters.length > 0 && (
                 <div className="relative">
