@@ -165,7 +165,7 @@ const sampleProperties: Property[] = [
       shower: "1",
       occupants: "3"
     },
-    image: "/api/placeholder/400/300",
+    image: "/property1.png",
     discount: ""
   },
   {

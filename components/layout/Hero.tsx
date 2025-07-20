@@ -256,7 +256,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({
           sizes="100vw"
         />      
         {/* Overlay for better text readability */}
-        {/* <div className="absolute inset-0 bg-black bg-opacity-20" /> */}
+        <div className="absolute inset-0 bg-black/20 bg-opacity-20" />
       </div>
 
       {/* Content */}

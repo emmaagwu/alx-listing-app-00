@@ -2,7 +2,8 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
-import { Search, User, Calendar, MapPin, Users } from 'lucide-react';
+import { Search, User, Calendar} from 'lucide-react';
+// import { Search, User, Calendar, MapPin, Users } from 'lucide-react';
 
 interface AccommodationType {
   id: string;
