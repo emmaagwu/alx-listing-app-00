@@ -183,7 +183,7 @@ const sampleProperties: Property[] = [
       shower: "1",
       occupants: "2"
     },
-    image: "/api/placeholder/400/300",
+    image: "/pro2.png",
     discount: ""
   },
   {
@@ -201,7 +201,7 @@ const sampleProperties: Property[] = [
       shower: "2",
       occupants: "6"
     },
-    image: "/api/placeholder/400/300",
+    image: "/pro3.png",
     discount: ""
   },
   {
@@ -219,7 +219,7 @@ const sampleProperties: Property[] = [
       shower: "1",
       occupants: "4"
     },
-    image: "/api/placeholder/400/300",
+    image: "/pro4.png",
     discount: ""
   },
   {
@@ -237,7 +237,7 @@ const sampleProperties: Property[] = [
       shower: "1",
       occupants: "2"
     },
-    image: "/api/placeholder/400/300",
+    image: "/pro5.png",
     discount: ""
   },
   {
@@ -255,7 +255,7 @@ const sampleProperties: Property[] = [
       shower: "1",
       occupants: "4"
     },
-    image: "/api/placeholder/400/300",
+    image: "/pro6.png",
     discount: ""
   },
   {
@@ -273,7 +273,7 @@ const sampleProperties: Property[] = [
       shower: "2",
       occupants: "4"
     },
-    image: "/api/placeholder/400/300",
+    image: "/pro7.png",
     discount: ""
   },
   {
@@ -291,7 +291,7 @@ const sampleProperties: Property[] = [
       shower: "2",
       occupants: "6"
     },
-    image: "/api/placeholder/400/300",
+    image: "/pro8.png",
     discount: ""
   }
 ];
